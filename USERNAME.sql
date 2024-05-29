@@ -2,7 +2,6 @@ DROP TABLE IF EXISTS `USERNAME`;
 
 CREATE TABLE `USERNAME` (
   `id` mediumint(8) unsigned NOT NULL auto_increment,
-  `id` mediumint,
   `name` varchar(255) default NULL,
   `email` varchar(255) default NULL,
   `password` varchar(255),
