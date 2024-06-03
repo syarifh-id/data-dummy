@@ -1,0 +1,11 @@
+Create Table PRODUCT ( id integer, product_name varchar(255), price varchar(255), stock varchar(3) ); 
+Insert Into PRODUCT (id, product_name, price, stock) Values (1, 'Chair', '422.00', '583');  
+Insert Into PRODUCT (id, product_name, price, stock) Values (2, 'Chicken', '293.00', '821');  
+Insert Into PRODUCT (id, product_name, price, stock) Values (3, 'Chair', '164.00', '191');  
+Insert Into PRODUCT (id, product_name, price, stock) Values (4, 'Table', '174.00', '908');  
+Insert Into PRODUCT (id, product_name, price, stock) Values (5, 'Car', '5.00', '734');  
+Insert Into PRODUCT (id, product_name, price, stock) Values (6, 'Hat', '392.00', '473');  
+Insert Into PRODUCT (id, product_name, price, stock) Values (7, 'Ball', '715.00', '664');  
+Insert Into PRODUCT (id, product_name, price, stock) Values (8, 'Bacon', '226.00', '290');  
+Insert Into PRODUCT (id, product_name, price, stock) Values (9, 'Towels', '266.00', '515');  
+Insert Into PRODUCT (id, product_name, price, stock) Values (10, 'Salad', '546.00', '566');  
